@@ -27,17 +27,17 @@ Esta aplicación fue desarrollada como una prueba técnica para demostrar:
 ## Estructura del proyecto
 
 lib/
-├── config/ # Inyección de dependencias
-├── core/ # Funciones utilitarias
-├── data/
-│ └── models/ # Modelos de datos
-├── logic/
-│ ├── api_cubit/ # Estado de datos externos
-│ └── preference_cubit/ # Estado de datos locales
-├── presentation/
-│ ├── pages/ # Pantallas de la app
-│ └── widgets/ # Componentes reutilizables
-└── main.dart # Punto de entrada
+-├── config/ # Inyección de dependencias
+-├── core/ # Funciones utilitarias
+-├── data/
+-│ └── models/ # Modelos de datos
+-├── logic/
+-│ ├── api_cubit/ # Estado de datos externos
+-│ └── preference_cubit/ # Estado de datos locales
+-├── presentation/
+-│ ├── pages/ # Pantallas de la app
+-│ └── widgets/ # Componentes reutilizables
+-└── main.dart # Punto de entrada
 
 ## Tecnologías utilizadas
 
@@ -74,4 +74,7 @@ lib/
 **Robert Andrade**  
 Ingeniero en Tecnologías de Información  
 Desarrollador Flutter especializado en arquitectura escalable, diseño profesional y experiencia de usuario.
-[GitHub](https://github.com/tuusuario) · [LinkedIn](https://www.linkedin.com/in/rsandradea99/) · rsandradea@gmail.com
+·[GitHub](https://github.com/rsandrade99) 
+·[LinkedIn](https://www.linkedin.com/in/rsandradea99/) 
+· rsandradea@gmail.com
+·[Instagram](https://www.instagram.com/robert_0899/)
