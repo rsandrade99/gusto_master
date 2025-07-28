@@ -25,19 +25,20 @@ Esta aplicación fue desarrollada como una prueba técnica para demostrar:
 - Buenas prácticas de diseño y experiencia de usuario.
 
 ## Estructura del proyecto
-
+```bash
 lib/
--├── config/ # Inyección de dependencias
--├── core/ # Funciones utilitarias
--├── data/
--│ └── models/ # Modelos de datos
--├── logic/
--│ ├── api_cubit/ # Estado de datos externos
--│ └── preference_cubit/ # Estado de datos locales
--├── presentation/
--│ ├── pages/ # Pantallas de la app
--│ └── widgets/ # Componentes reutilizables
--└── main.dart # Punto de entrada
+├── config/ # Inyección de dependencias
+├── core/ # Funciones utilitarias
+├── data/
+│ └── models/ # Modelos de datos
+├── logic/
+│ ├── api_cubit/ # Estado de datos externos
+│ └── preference_cubit/ # Estado de datos locales
+├── presentation/
+│ ├── pages/ # Pantallas de la app
+│ └── widgets/ # Componentes reutilizables
+└── main.dart # Punto de entrada
+```
 
 ## Tecnologías utilizadas
 
