@@ -75,7 +75,7 @@ lib/
 **Robert Andrade**  
 Ingeniero en Tecnologías de Información  
 Desarrollador Flutter especializado en arquitectura escalable, diseño profesional y experiencia de usuario.
-·[GitHub](https://github.com/rsandrade99) 
-·[LinkedIn](https://www.linkedin.com/in/rsandradea99/) 
-· rsandradea@gmail.com
-·[Instagram](https://www.instagram.com/robert_0899/)
+- [GitHub](https://github.com/rsandrade99) 
+- [LinkedIn](https://www.linkedin.com/in/rsandradea99/) 
+- rsandradea@gmail.com
+- [Instagram](https://www.instagram.com/robert_0899/)
