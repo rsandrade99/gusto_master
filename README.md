@@ -54,7 +54,7 @@ lib/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/gustomaster.git
+   git clone https://github.com/rsandrade99/gusto_master
    cd gustomaster
    ```
 2. Instala las dependencias:
